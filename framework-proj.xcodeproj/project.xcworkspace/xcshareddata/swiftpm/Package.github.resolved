@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "gcdwebservers-binary",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:Flutter-Global/gcdwebservers-binary.git",
+      "state" : {
+        "revision" : "87efef9514ff23df0c35c97e217a267ffba8fd94",
+        "version" : "4.0.0-M1-Fresh"
+      }
+    }
+  ],
+  "version" : 2
+}
